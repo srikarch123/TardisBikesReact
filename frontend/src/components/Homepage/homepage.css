@@ -1,0 +1,39 @@
+#text {
+    font-size: 100px;
+    background: -webkit-linear-gradient(lightblue, #15adc8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#text1 {
+    font-size: 80px;
+    background: -webkit-linear-gradient(red, grey);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#text2 {
+    font-size: 60px;
+    background: -webkit-linear-gradient(red, rgb(240, 126, 126));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 900;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#button1{
+    color: white;
+    font-size: 30px;
+    height: 70px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    font-weight: 600;
+    align-content:stretch;
+    width: 950px;
+    background: linear-gradient(to bottom, rgb(250, 141, 141) 0%, red 100%);
+}
