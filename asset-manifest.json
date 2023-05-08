@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TardisBikesReact/static/css/main.b10bc5d7.css",
+    "main.js": "/TardisBikesReact/static/js/main.8002d9a7.js",
+    "static/js/787.fec03637.chunk.js": "/TardisBikesReact/static/js/787.fec03637.chunk.js",
+    "static/media/intro-video.mp4": "/TardisBikesReact/static/media/intro-video.14a38b9a2dccda25caae.mp4",
+    "static/media/bikes.jpeg": "/TardisBikesReact/static/media/bikes.559fb93811df46735acf.jpeg",
+    "static/media/parts.jpeg": "/TardisBikesReact/static/media/parts.791d08157ba80021f0b3.jpeg",
+    "static/media/logo.png": "/TardisBikesReact/static/media/logo.cb2f6aa1aebcc1a1f51d.png",
+    "static/media/acc.jpeg": "/TardisBikesReact/static/media/acc.550d37b9b74cdf94cb43.jpeg",
+    "index.html": "/TardisBikesReact/index.html",
+    "main.b10bc5d7.css.map": "/TardisBikesReact/static/css/main.b10bc5d7.css.map",
+    "main.8002d9a7.js.map": "/TardisBikesReact/static/js/main.8002d9a7.js.map",
+    "787.fec03637.chunk.js.map": "/TardisBikesReact/static/js/787.fec03637.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b10bc5d7.css",
+    "static/js/main.8002d9a7.js"
+  ]
+}
